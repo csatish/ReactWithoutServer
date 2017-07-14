@@ -1,5 +1,7 @@
 *.DS_Store
+build/bundle.js
 .idea
 .idea/*
 node_modules
 node_modules/*
+
